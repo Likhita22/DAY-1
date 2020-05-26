@@ -1,0 +1,69 @@
+day 1 
+GIT command
+pwd
+ls
+ls -a
+clear
+cd Desktop/
+ls
+clear
+cd Raptor
+cd ..
+cd Raptor
+cd
+mkdir DS
+ls
+cd DS
+touch Data.txt
+ls
+cat Data.txt
+echo "AIandML" > Data.txt
+cat Data.txt
+gedit Data.txt
+clear
+nano Data.txt
+cat Data.txt
+nano Data.txt
+nano Data.txt
+cat Data.txt
+clear
+ls
+nano test.txt
+ls
+cat test.txt
+rm test.txt
+ls
+rm -d <DirName>
+rmdir <DirName>
+git init
+git status
+git add Data.txt
+git status
+git commit -m "First Commit"
+clear
+git config --global user.email 'madishettyanilkumar9@gmail.com'
+git config --global user.name 'AnilKumar-DSPS'
+git config user.email
+git config user.name
+clear
+git status
+nano Data.txt
+git status
+git add Data.txt
+git commit -m "Second Commit"
+git log
+clear
+mkdir Adv-Prog
+ls
+git remote -help
+clear
+git remote add Adv-Prog https://github.com/Anil-a431/Adv-Prog
+git remote show
+git remote -v
+git pull Adv-Prog master
+git push -u Adv-Prog
+git push --set-upstream Adv-Prog master
+git push -f --set-upstream Adv-Prog master
+
+
+
